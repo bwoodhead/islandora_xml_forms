@@ -1,9 +1,9 @@
 ; $Id$
 name = Islandora XML Forms
 description = Build/Store/Render drupal forms that allow for the manipulation of XML files.
-dependencies[] = xml_form_api
-dependencies[] = xml_form_builder
-dependencies[] = xml_form_elements
+dependencies[] = islandora_xml_form_api
+dependencies[] = islandora_xml_form_builder
+dependencies[] = islandora_xml_form_elements
 package = Islandora Tools
 version = 11.3.0
 core = 7.x
